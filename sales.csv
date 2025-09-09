@@ -1,0 +1,1001 @@
+sno,year,month,branch,sales
+1,2023,February,Lakeshore,8718
+2,2023,June,Sunset Boulevard,2074
+3,2024,May,Greenfield,6424
+4,2023,July,West End,6499
+5,2023,October,West End,8652
+6,2024,October,Greenfield,8895
+7,2022,May,Riverside,9017
+8,2022,August,Greenfield,7627
+9,2022,February,Eastside,7094
+10,2023,November,Hilltop,1200
+11,2022,February,Downtown,6025
+12,2022,October,West End,1750
+13,2023,March,Uptown,8791
+14,2022,December,Lakeshore,1176
+15,2024,November,West End,7208
+16,2024,March,West End,4560
+17,2022,August,Eastside,7011
+18,2024,May,Downtown,7637
+19,2022,January,West End,9752
+20,2022,December,Uptown,7184
+21,2023,October,Uptown,1773
+22,2024,November,Lakeshore,1996
+23,2023,July,Central Park,9322
+24,2024,August,Hilltop,2394
+25,2024,January,Eastside,9625
+26,2022,October,Downtown,2372
+27,2022,February,Uptown,2641
+28,2024,May,Lakeshore,2970
+29,2024,April,Hilltop,1699
+30,2023,February,Downtown,3370
+31,2023,March,Uptown,3708
+32,2024,October,Eastside,4406
+33,2022,April,Riverside,8846
+34,2023,October,West End,1787
+35,2023,May,Uptown,2676
+36,2022,December,Riverside,6721
+37,2024,May,Downtown,5673
+38,2024,November,Downtown,7545
+39,2023,June,Eastside,4924
+40,2024,December,Central Park,2637
+41,2022,December,Greenfield,6883
+42,2022,December,Eastside,5710
+43,2024,June,Uptown,7173
+44,2023,June,Lakeshore,6567
+45,2024,April,Lakeshore,6841
+46,2024,April,Riverside,9397
+47,2024,December,Eastside,6441
+48,2024,August,Eastside,4075
+49,2024,August,Hilltop,9161
+50,2024,August,Central Park,1977
+51,2023,January,Uptown,8577
+52,2022,July,Central Park,8708
+53,2022,January,West End,2648
+54,2023,May,Downtown,9457
+55,2022,August,Downtown,7096
+56,2024,December,Riverside,7504
+57,2023,July,Hilltop,8866
+58,2024,March,Hilltop,4056
+59,2024,November,Uptown,6494
+60,2022,February,West End,8268
+61,2023,April,Hilltop,6231
+62,2022,March,Eastside,4677
+63,2022,July,Sunset Boulevard,2553
+64,2022,October,Downtown,5218
+65,2022,October,Sunset Boulevard,4142
+66,2022,November,Riverside,3463
+67,2023,June,Sunset Boulevard,8701
+68,2022,November,Hilltop,4051
+69,2023,May,Downtown,9749
+70,2022,June,Riverside,7474
+71,2022,October,Sunset Boulevard,1721
+72,2022,May,Greenfield,1011
+73,2022,June,Hilltop,8180
+74,2023,December,Central Park,2431
+75,2023,November,Greenfield,8936
+76,2022,March,West End,6726
+77,2024,November,Hilltop,8843
+78,2024,June,Central Park,2424
+79,2022,September,Sunset Boulevard,1188
+80,2024,January,Hilltop,9580
+81,2022,November,Lakeshore,5617
+82,2023,October,Lakeshore,6684
+83,2024,March,Downtown,1783
+84,2023,August,West End,9732
+85,2024,February,Downtown,8751
+86,2023,September,Sunset Boulevard,2865
+87,2024,March,Uptown,5837
+88,2022,May,Hilltop,1875
+89,2022,January,Uptown,8170
+90,2022,August,Riverside,5280
+91,2023,August,Greenfield,9118
+92,2022,October,Greenfield,3434
+93,2023,August,Uptown,8629
+94,2024,January,Hilltop,4931
+95,2023,May,Downtown,3267
+96,2023,July,Uptown,3955
+97,2024,November,Lakeshore,9315
+98,2023,October,Hilltop,3711
+99,2023,July,Downtown,4438
+100,2022,May,Uptown,8639
+101,2022,October,Uptown,4525
+102,2023,December,Eastside,3022
+103,2024,September,Riverside,7579
+104,2023,September,Uptown,3891
+105,2023,January,Lakeshore,6193
+106,2023,January,West End,5850
+107,2022,October,West End,1224
+108,2024,July,Central Park,6488
+109,2023,August,Central Park,8210
+110,2022,July,Sunset Boulevard,9646
+111,2022,October,West End,4772
+112,2024,June,Uptown,9950
+113,2024,June,Uptown,9550
+114,2023,June,Central Park,9728
+115,2022,July,Eastside,1570
+116,2023,July,Uptown,3898
+117,2023,November,Uptown,8432
+118,2023,March,Riverside,1110
+119,2024,March,Hilltop,5103
+120,2023,November,Downtown,2739
+121,2023,July,Hilltop,7582
+122,2023,December,Central Park,5192
+123,2024,November,Riverside,1703
+124,2024,April,Riverside,9007
+125,2024,March,Greenfield,2336
+126,2024,November,Sunset Boulevard,4865
+127,2023,April,Eastside,1235
+128,2023,October,Sunset Boulevard,6661
+129,2023,April,West End,5850
+130,2023,November,Downtown,9768
+131,2022,March,Riverside,4171
+132,2023,December,Eastside,9997
+133,2024,March,Greenfield,4444
+134,2024,July,Hilltop,6135
+135,2024,November,Lakeshore,4548
+136,2023,October,Eastside,7132
+137,2024,August,Uptown,1562
+138,2023,October,Hilltop,8798
+139,2022,August,Lakeshore,8127
+140,2023,September,West End,9783
+141,2023,February,West End,6650
+142,2024,January,Sunset Boulevard,9497
+143,2022,July,Eastside,1024
+144,2024,January,Central Park,7194
+145,2024,February,Hilltop,1042
+146,2024,November,Uptown,5994
+147,2024,October,Greenfield,9025
+148,2023,August,Sunset Boulevard,3226
+149,2022,March,Downtown,2573
+150,2023,March,West End,7178
+151,2022,July,Uptown,6738
+152,2022,January,West End,4291
+153,2024,September,Downtown,7696
+154,2022,March,Greenfield,2081
+155,2023,September,West End,4867
+156,2023,December,Eastside,5064
+157,2024,May,Downtown,5984
+158,2022,January,Lakeshore,6102
+159,2023,January,Uptown,6416
+160,2022,September,Greenfield,9489
+161,2023,February,Uptown,6644
+162,2023,March,Eastside,2039
+163,2024,January,Uptown,1150
+164,2024,June,Uptown,9828
+165,2023,October,West End,6216
+166,2024,November,Greenfield,5095
+167,2022,November,Uptown,5019
+168,2023,August,Uptown,7608
+169,2023,December,Central Park,8698
+170,2022,September,Eastside,2602
+171,2023,April,West End,8653
+172,2022,November,Uptown,6517
+173,2022,September,Riverside,2264
+174,2024,June,Riverside,6513
+175,2024,April,Lakeshore,1798
+176,2023,July,Lakeshore,9026
+177,2022,August,Lakeshore,3412
+178,2024,July,Eastside,1444
+179,2022,May,Uptown,9438
+180,2022,September,Hilltop,3482
+181,2023,August,Hilltop,1563
+182,2023,July,Downtown,4173
+183,2024,September,West End,8473
+184,2024,December,Uptown,5615
+185,2023,December,West End,8056
+186,2022,April,Hilltop,1359
+187,2022,September,West End,5747
+188,2023,February,Sunset Boulevard,2201
+189,2022,June,Central Park,4885
+190,2023,September,Riverside,2748
+191,2022,August,Sunset Boulevard,7532
+192,2024,March,West End,4404
+193,2022,October,Uptown,8626
+194,2024,August,Sunset Boulevard,1077
+195,2023,November,Downtown,8916
+196,2022,February,Sunset Boulevard,1313
+197,2023,August,Central Park,6270
+198,2024,March,Central Park,8812
+199,2023,March,Eastside,4922
+200,2023,December,Uptown,1576
+201,2024,October,Uptown,9803
+202,2023,September,West End,4828
+203,2024,March,West End,5405
+204,2022,January,Hilltop,7785
+205,2023,June,Eastside,6274
+206,2023,April,Hilltop,7251
+207,2022,November,Hilltop,5999
+208,2022,February,Riverside,7360
+209,2024,June,West End,7457
+210,2024,December,West End,3586
+211,2023,January,Uptown,3299
+212,2023,March,Greenfield,9565
+213,2023,August,Central Park,5116
+214,2023,June,Sunset Boulevard,6311
+215,2024,February,Greenfield,4306
+216,2022,June,Downtown,2702
+217,2023,October,Greenfield,4668
+218,2023,August,Riverside,5892
+219,2023,September,West End,9724
+220,2024,April,Eastside,1952
+221,2024,July,Uptown,3558
+222,2023,April,Eastside,2875
+223,2023,June,Eastside,8996
+224,2023,March,Central Park,5279
+225,2024,February,Hilltop,8424
+226,2024,March,Lakeshore,6505
+227,2023,November,Lakeshore,6613
+228,2022,March,Eastside,9224
+229,2024,October,Lakeshore,4676
+230,2024,September,Hilltop,3147
+231,2024,February,Greenfield,5955
+232,2022,November,Eastside,9751
+233,2022,September,West End,1821
+234,2022,June,Sunset Boulevard,5890
+235,2024,January,Hilltop,7718
+236,2022,August,Greenfield,9088
+237,2022,March,Sunset Boulevard,9617
+238,2023,April,West End,5124
+239,2024,September,Sunset Boulevard,4302
+240,2024,May,Central Park,4966
+241,2024,December,Uptown,5122
+242,2022,December,Eastside,5953
+243,2022,August,West End,1168
+244,2024,September,Eastside,7675
+245,2022,March,Greenfield,9161
+246,2023,July,Downtown,5532
+247,2024,April,Riverside,6820
+248,2022,April,Hilltop,3088
+249,2022,October,Lakeshore,4786
+250,2022,June,Central Park,9498
+251,2023,April,Riverside,3197
+252,2024,July,Riverside,9100
+253,2023,April,Greenfield,1579
+254,2024,February,Downtown,7095
+255,2024,March,Uptown,1066
+256,2023,July,Eastside,6925
+257,2022,January,Lakeshore,3978
+258,2024,July,Eastside,2765
+259,2023,October,Sunset Boulevard,1271
+260,2022,July,Eastside,6596
+261,2023,July,Downtown,3693
+262,2024,December,Eastside,7318
+263,2024,June,Eastside,2644
+264,2022,April,Lakeshore,8005
+265,2023,April,Uptown,6386
+266,2023,July,Riverside,4917
+267,2022,December,West End,6140
+268,2022,December,Lakeshore,1150
+269,2023,January,Downtown,2343
+270,2022,October,Riverside,7379
+271,2024,May,Greenfield,4562
+272,2024,February,Sunset Boulevard,9506
+273,2024,June,Greenfield,3964
+274,2022,May,Uptown,1912
+275,2022,July,Sunset Boulevard,7066
+276,2024,November,West End,6881
+277,2022,November,West End,3436
+278,2022,June,Sunset Boulevard,4169
+279,2024,April,Eastside,6884
+280,2022,March,Central Park,4432
+281,2023,April,Uptown,6192
+282,2024,December,Downtown,1676
+283,2022,March,Lakeshore,3354
+284,2024,February,Lakeshore,9827
+285,2023,October,West End,8461
+286,2022,February,Uptown,8574
+287,2023,October,Uptown,6909
+288,2023,October,Lakeshore,5958
+289,2023,June,Uptown,8168
+290,2022,July,Uptown,9286
+291,2024,March,Sunset Boulevard,7001
+292,2022,July,Lakeshore,7086
+293,2024,June,Uptown,8796
+294,2023,August,Uptown,2795
+295,2023,July,Hilltop,5844
+296,2023,September,Eastside,2888
+297,2024,August,Hilltop,6009
+298,2023,May,Riverside,9193
+299,2022,October,Downtown,6039
+300,2024,May,Hilltop,8809
+301,2024,May,Sunset Boulevard,5515
+302,2022,January,Hilltop,3087
+303,2023,March,Eastside,3902
+304,2022,December,Greenfield,7895
+305,2024,May,Lakeshore,1865
+306,2024,March,Lakeshore,1442
+307,2022,August,Eastside,2088
+308,2024,January,Central Park,9687
+309,2022,June,West End,5656
+310,2023,April,Uptown,1752
+311,2023,January,Central Park,8132
+312,2024,January,Lakeshore,6315
+313,2023,October,Uptown,1845
+314,2024,April,Lakeshore,2586
+315,2024,July,Riverside,5119
+316,2023,October,Downtown,7664
+317,2024,August,Central Park,2052
+318,2024,April,Hilltop,3908
+319,2023,February,Lakeshore,2680
+320,2022,March,Central Park,1533
+321,2024,December,Downtown,2001
+322,2022,November,West End,2854
+323,2024,July,Riverside,6468
+324,2022,August,Central Park,5495
+325,2024,May,Greenfield,2873
+326,2024,October,Uptown,4657
+327,2022,July,Greenfield,5889
+328,2022,July,Greenfield,4904
+329,2022,June,Downtown,5649
+330,2022,June,Riverside,7245
+331,2022,March,West End,3157
+332,2023,October,Greenfield,2790
+333,2022,March,Greenfield,1601
+334,2024,March,Riverside,3743
+335,2023,September,West End,1567
+336,2023,March,Lakeshore,6116
+337,2024,December,Sunset Boulevard,3377
+338,2022,December,Downtown,6738
+339,2022,September,Downtown,8432
+340,2022,July,Hilltop,1098
+341,2023,November,Sunset Boulevard,1962
+342,2023,July,Riverside,4142
+343,2024,July,Central Park,3228
+344,2022,January,Downtown,3224
+345,2023,May,Eastside,2733
+346,2022,May,Lakeshore,5582
+347,2023,September,Downtown,6894
+348,2022,February,Central Park,9219
+349,2024,April,Riverside,2720
+350,2022,February,Downtown,2352
+351,2024,May,Central Park,5093
+352,2024,February,Greenfield,8851
+353,2022,June,Downtown,4239
+354,2022,September,Riverside,1989
+355,2024,November,Greenfield,1044
+356,2024,September,Greenfield,2076
+357,2022,May,Sunset Boulevard,4372
+358,2024,July,Lakeshore,4226
+359,2022,July,Sunset Boulevard,6649
+360,2024,December,Lakeshore,9682
+361,2024,March,West End,8868
+362,2022,June,Eastside,2538
+363,2024,September,Lakeshore,3910
+364,2024,June,West End,2781
+365,2024,March,Downtown,1670
+366,2024,February,Downtown,8727
+367,2023,December,Downtown,3857
+368,2023,April,Riverside,1588
+369,2023,November,Riverside,2387
+370,2023,March,Sunset Boulevard,6147
+371,2024,August,Downtown,8716
+372,2023,October,West End,2866
+373,2023,April,Central Park,8729
+374,2023,November,Hilltop,7687
+375,2022,February,Hilltop,1497
+376,2024,February,Central Park,1022
+377,2023,September,Eastside,7782
+378,2024,November,Uptown,7580
+379,2022,November,Central Park,6658
+380,2022,December,Lakeshore,4125
+381,2024,October,Riverside,9579
+382,2022,April,Central Park,2621
+383,2022,August,Downtown,4220
+384,2023,December,Sunset Boulevard,4690
+385,2022,June,Greenfield,9149
+386,2023,February,Greenfield,7968
+387,2024,July,Hilltop,5587
+388,2022,July,Central Park,5539
+389,2023,August,Riverside,5481
+390,2023,July,Lakeshore,9649
+391,2022,December,Hilltop,9854
+392,2022,October,Hilltop,6846
+393,2024,November,Riverside,3637
+394,2022,September,Downtown,7751
+395,2024,February,Uptown,4849
+396,2023,December,Eastside,9891
+397,2022,July,Downtown,8469
+398,2024,December,Lakeshore,4499
+399,2023,February,Downtown,2801
+400,2022,December,Central Park,9257
+401,2022,May,Sunset Boulevard,1000
+402,2022,September,Riverside,2153
+403,2023,September,West End,9980
+404,2023,February,Greenfield,1052
+405,2024,November,Greenfield,8812
+406,2022,May,Central Park,7753
+407,2023,March,Downtown,9326
+408,2024,October,Hilltop,2465
+409,2024,December,Greenfield,1579
+410,2023,October,Central Park,4104
+411,2024,December,Lakeshore,4852
+412,2023,September,Lakeshore,9882
+413,2024,November,Uptown,5249
+414,2023,April,Eastside,2055
+415,2024,October,Hilltop,5841
+416,2023,October,Central Park,6157
+417,2023,October,Sunset Boulevard,8845
+418,2022,March,Downtown,5716
+419,2024,February,Lakeshore,8594
+420,2022,October,Central Park,8170
+421,2022,October,Hilltop,5927
+422,2022,July,West End,7413
+423,2024,October,Greenfield,4680
+424,2022,June,Central Park,2490
+425,2023,February,Central Park,9489
+426,2022,February,Hilltop,7446
+427,2024,June,Hilltop,4945
+428,2024,October,Uptown,2321
+429,2022,July,Uptown,7564
+430,2024,December,Central Park,5737
+431,2024,October,Uptown,6809
+432,2022,May,Downtown,8835
+433,2023,November,Hilltop,7150
+434,2024,April,Riverside,9347
+435,2023,July,Downtown,6080
+436,2024,March,Hilltop,4975
+437,2024,April,Lakeshore,5059
+438,2023,September,Sunset Boulevard,1844
+439,2022,August,Sunset Boulevard,9842
+440,2022,March,Central Park,8161
+441,2024,October,Riverside,2849
+442,2022,September,Lakeshore,8662
+443,2024,June,Riverside,6860
+444,2024,July,Hilltop,6821
+445,2022,March,Riverside,2162
+446,2023,October,Sunset Boulevard,1569
+447,2024,October,Riverside,7220
+448,2023,December,Uptown,2371
+449,2024,December,Hilltop,4602
+450,2022,February,Hilltop,8280
+451,2023,December,Eastside,5910
+452,2023,May,Downtown,4923
+453,2023,August,Lakeshore,9237
+454,2024,March,Central Park,2097
+455,2022,July,Riverside,9823
+456,2022,May,West End,3180
+457,2023,February,Lakeshore,5902
+458,2024,November,Eastside,5561
+459,2023,August,Lakeshore,5520
+460,2024,May,Greenfield,1398
+461,2022,December,Greenfield,7204
+462,2022,February,Lakeshore,1943
+463,2024,December,Riverside,9376
+464,2024,January,Uptown,8576
+465,2024,June,Greenfield,3741
+466,2022,February,Greenfield,9998
+467,2022,October,Downtown,5441
+468,2024,April,Lakeshore,5640
+469,2022,November,Central Park,7238
+470,2022,June,Riverside,6199
+471,2023,December,Lakeshore,3439
+472,2022,March,Riverside,7761
+473,2024,March,Hilltop,8217
+474,2024,December,Hilltop,8832
+475,2022,January,Downtown,8506
+476,2024,September,Eastside,1717
+477,2024,September,West End,6887
+478,2024,August,West End,4148
+479,2024,March,Uptown,1464
+480,2024,January,Uptown,6056
+481,2022,November,Sunset Boulevard,4258
+482,2022,May,Greenfield,3965
+483,2023,February,Downtown,2213
+484,2023,May,Central Park,8188
+485,2022,August,Hilltop,5130
+486,2024,October,Lakeshore,4828
+487,2022,May,Sunset Boulevard,5703
+488,2023,June,Lakeshore,8162
+489,2023,June,Hilltop,1584
+490,2022,February,Hilltop,3483
+491,2023,September,Sunset Boulevard,2009
+492,2024,November,West End,5387
+493,2024,May,Greenfield,9500
+494,2022,April,Eastside,6147
+495,2024,May,Sunset Boulevard,8618
+496,2022,February,Hilltop,1646
+497,2022,September,Hilltop,7761
+498,2023,January,Downtown,6841
+499,2022,July,West End,5406
+500,2023,June,Hilltop,8203
+501,2023,May,Hilltop,1816
+502,2022,November,Hilltop,5588
+503,2024,May,Hilltop,5190
+504,2022,July,Central Park,6137
+505,2023,October,Downtown,8325
+506,2023,December,Uptown,1995
+507,2023,August,West End,7278
+508,2022,July,West End,2250
+509,2023,December,Downtown,7744
+510,2023,September,Riverside,7186
+511,2023,March,Sunset Boulevard,5853
+512,2023,December,Lakeshore,6470
+513,2023,January,Central Park,2020
+514,2024,May,Uptown,3412
+515,2023,December,Lakeshore,6593
+516,2022,October,Sunset Boulevard,7160
+517,2024,May,Eastside,7724
+518,2023,December,Riverside,4779
+519,2022,October,Greenfield,4507
+520,2023,June,Eastside,5071
+521,2024,June,West End,2460
+522,2023,June,Hilltop,4929
+523,2024,January,Greenfield,2187
+524,2023,July,Uptown,4223
+525,2023,January,West End,8499
+526,2023,May,Sunset Boulevard,3181
+527,2024,September,Lakeshore,6101
+528,2023,July,West End,1345
+529,2024,August,Hilltop,7113
+530,2022,September,Downtown,5656
+531,2023,September,Greenfield,7067
+532,2024,April,Central Park,9925
+533,2023,May,Riverside,4022
+534,2022,March,Sunset Boulevard,3126
+535,2023,September,Uptown,9790
+536,2024,June,Sunset Boulevard,1506
+537,2023,August,West End,1348
+538,2022,January,Eastside,6080
+539,2023,January,Greenfield,6964
+540,2023,April,Hilltop,2069
+541,2022,March,Uptown,4124
+542,2022,May,West End,6137
+543,2023,July,Riverside,6202
+544,2022,March,Riverside,9983
+545,2022,June,Downtown,6011
+546,2022,March,Lakeshore,2708
+547,2022,July,Uptown,8971
+548,2023,October,Hilltop,7739
+549,2022,January,Lakeshore,9675
+550,2022,October,Sunset Boulevard,5995
+551,2022,March,Sunset Boulevard,3330
+552,2022,April,Lakeshore,7693
+553,2024,December,Hilltop,3329
+554,2023,October,Riverside,5289
+555,2024,June,Central Park,7156
+556,2023,December,Sunset Boulevard,9354
+557,2024,March,Greenfield,7848
+558,2024,September,Uptown,6193
+559,2022,February,Sunset Boulevard,2618
+560,2024,November,Downtown,2397
+561,2022,April,Hilltop,8962
+562,2024,January,Riverside,4133
+563,2023,October,Eastside,1856
+564,2024,July,Greenfield,1186
+565,2023,July,Hilltop,6771
+566,2022,December,Riverside,9848
+567,2022,May,Downtown,3243
+568,2023,May,West End,3096
+569,2024,October,Riverside,5376
+570,2024,March,Eastside,2006
+571,2023,October,West End,8574
+572,2022,November,Uptown,8711
+573,2023,January,Greenfield,1463
+574,2024,June,Central Park,1149
+575,2022,January,Sunset Boulevard,3555
+576,2022,September,Riverside,9723
+577,2024,February,Downtown,8087
+578,2024,June,Uptown,9814
+579,2023,December,Sunset Boulevard,4018
+580,2022,March,Lakeshore,8035
+581,2024,November,Sunset Boulevard,2657
+582,2022,August,West End,8787
+583,2023,June,Hilltop,9725
+584,2022,December,Riverside,4513
+585,2022,December,Central Park,9694
+586,2023,February,Hilltop,5627
+587,2023,July,West End,3941
+588,2024,December,Downtown,6933
+589,2024,January,Riverside,6979
+590,2024,December,Sunset Boulevard,5421
+591,2023,July,Eastside,3156
+592,2024,April,Eastside,8274
+593,2022,January,Downtown,1744
+594,2022,June,Sunset Boulevard,2739
+595,2024,January,Lakeshore,8666
+596,2022,May,Eastside,4209
+597,2023,April,Downtown,7504
+598,2024,September,Lakeshore,6383
+599,2023,June,Sunset Boulevard,2474
+600,2024,August,West End,6843
+601,2023,March,Riverside,1871
+602,2024,November,Downtown,5751
+603,2022,February,Uptown,6070
+604,2022,April,Central Park,3796
+605,2024,February,West End,9913
+606,2022,June,Uptown,1442
+607,2022,March,Uptown,7794
+608,2022,April,Eastside,5268
+609,2024,May,Lakeshore,6040
+610,2024,June,Eastside,3007
+611,2023,January,Hilltop,1613
+612,2023,August,Sunset Boulevard,3071
+613,2024,December,West End,1201
+614,2023,May,Riverside,8010
+615,2024,December,Hilltop,4755
+616,2024,August,Hilltop,5337
+617,2023,April,Hilltop,9087
+618,2023,August,Lakeshore,7038
+619,2022,April,Eastside,7655
+620,2024,June,Sunset Boulevard,2524
+621,2023,December,Downtown,8414
+622,2024,August,Uptown,1004
+623,2022,June,Greenfield,6325
+624,2022,July,Central Park,9344
+625,2022,October,Hilltop,9048
+626,2024,October,Eastside,8664
+627,2023,February,Riverside,1567
+628,2024,October,Central Park,1008
+629,2023,April,Hilltop,2186
+630,2024,January,Riverside,3036
+631,2024,December,Lakeshore,7221
+632,2024,January,Eastside,9547
+633,2023,June,Sunset Boulevard,2503
+634,2023,February,Uptown,3360
+635,2024,March,Greenfield,8356
+636,2022,January,Hilltop,9913
+637,2022,May,Greenfield,9296
+638,2022,December,Central Park,5010
+639,2022,May,West End,8091
+640,2023,January,Lakeshore,6552
+641,2022,November,Lakeshore,4733
+642,2022,October,Downtown,6534
+643,2024,January,Greenfield,6322
+644,2024,January,Riverside,3740
+645,2023,November,Greenfield,7524
+646,2024,November,Greenfield,4372
+647,2023,March,Riverside,1803
+648,2024,May,Downtown,2314
+649,2022,December,Eastside,6718
+650,2024,January,Uptown,8709
+651,2024,November,West End,1021
+652,2024,December,Lakeshore,8260
+653,2022,November,Sunset Boulevard,5853
+654,2022,September,Hilltop,6631
+655,2023,April,Sunset Boulevard,9098
+656,2022,November,Central Park,3503
+657,2023,December,Eastside,1184
+658,2024,July,Central Park,2330
+659,2024,February,Lakeshore,5439
+660,2024,August,Hilltop,1144
+661,2024,May,Riverside,4224
+662,2023,August,Lakeshore,5124
+663,2023,August,Uptown,4053
+664,2022,July,Sunset Boulevard,5276
+665,2024,June,Downtown,7780
+666,2023,August,West End,6571
+667,2024,December,West End,5049
+668,2023,November,West End,8145
+669,2022,March,Uptown,4270
+670,2022,November,Lakeshore,8339
+671,2024,October,Sunset Boulevard,8255
+672,2024,September,Riverside,6830
+673,2024,October,Hilltop,1046
+674,2024,April,Riverside,6050
+675,2024,April,Greenfield,6209
+676,2022,December,Riverside,9620
+677,2024,September,Uptown,4616
+678,2023,December,Sunset Boulevard,5819
+679,2022,March,Eastside,5514
+680,2023,November,West End,7203
+681,2024,August,Greenfield,4606
+682,2023,August,Greenfield,8384
+683,2023,November,Uptown,9285
+684,2024,October,Hilltop,9493
+685,2024,July,Uptown,2695
+686,2024,February,Lakeshore,7745
+687,2024,December,Hilltop,2995
+688,2022,November,Hilltop,2194
+689,2024,December,Eastside,8938
+690,2023,May,Uptown,4275
+691,2024,August,Uptown,6185
+692,2023,March,Riverside,4736
+693,2024,September,Sunset Boulevard,8124
+694,2023,March,Hilltop,9332
+695,2022,July,Downtown,2970
+696,2022,June,Riverside,3269
+697,2024,February,Eastside,1189
+698,2022,October,Greenfield,6923
+699,2023,November,Lakeshore,9581
+700,2023,July,Eastside,1503
+701,2024,December,Downtown,6132
+702,2024,March,Central Park,2862
+703,2023,March,Eastside,4146
+704,2022,November,Eastside,7491
+705,2023,April,Downtown,3880
+706,2023,September,Sunset Boulevard,1804
+707,2022,March,Lakeshore,9591
+708,2023,January,Greenfield,3792
+709,2024,February,Downtown,3737
+710,2022,March,Riverside,5463
+711,2023,June,Eastside,7154
+712,2022,July,Greenfield,6778
+713,2024,November,Eastside,5092
+714,2023,February,Central Park,9618
+715,2022,April,Sunset Boulevard,1670
+716,2023,April,Downtown,1048
+717,2024,September,Uptown,6437
+718,2022,August,Central Park,5049
+719,2023,April,Downtown,2778
+720,2022,October,Hilltop,8623
+721,2024,August,West End,5449
+722,2024,February,Central Park,4005
+723,2024,August,Downtown,6275
+724,2024,July,West End,9193
+725,2022,June,Central Park,5173
+726,2022,January,Hilltop,7246
+727,2024,December,Hilltop,5229
+728,2022,July,West End,4358
+729,2023,July,Eastside,2404
+730,2024,July,Central Park,3463
+731,2023,August,Central Park,5177
+732,2022,July,West End,3889
+733,2024,December,Downtown,6944
+734,2023,May,West End,7025
+735,2024,April,Central Park,1661
+736,2024,October,Central Park,2430
+737,2024,January,Downtown,3767
+738,2022,November,Greenfield,4031
+739,2024,October,Downtown,4706
+740,2022,November,Eastside,6682
+741,2024,May,Hilltop,4299
+742,2023,January,Downtown,5841
+743,2023,January,Eastside,9539
+744,2022,June,Uptown,3963
+745,2022,July,Lakeshore,4417
+746,2024,October,Sunset Boulevard,1641
+747,2023,December,Downtown,3198
+748,2024,February,Greenfield,1980
+749,2022,April,Uptown,9699
+750,2023,July,West End,7968
+751,2022,February,Sunset Boulevard,2764
+752,2023,April,Downtown,3812
+753,2023,April,Uptown,4672
+754,2022,June,Central Park,3842
+755,2023,October,Downtown,9629
+756,2023,September,Eastside,4027
+757,2023,July,Hilltop,5103
+758,2023,April,Eastside,9118
+759,2023,November,Greenfield,3845
+760,2022,August,Uptown,4281
+761,2022,May,Greenfield,5528
+762,2024,May,Downtown,6280
+763,2022,October,West End,4763
+764,2023,June,Downtown,3184
+765,2023,October,Central Park,5300
+766,2023,January,Sunset Boulevard,7737
+767,2022,November,Downtown,4401
+768,2023,March,Lakeshore,5289
+769,2024,August,Lakeshore,4002
+770,2023,November,Hilltop,5741
+771,2022,September,Eastside,8079
+772,2023,December,Greenfield,2093
+773,2024,June,West End,2133
+774,2024,August,West End,4112
+775,2024,November,Downtown,6222
+776,2024,August,West End,1121
+777,2023,April,Riverside,6601
+778,2023,March,Central Park,4982
+779,2022,June,Central Park,1568
+780,2022,July,Downtown,4500
+781,2022,November,West End,3638
+782,2023,June,Hilltop,6053
+783,2024,January,Lakeshore,1588
+784,2023,October,Hilltop,9373
+785,2023,December,Riverside,2777
+786,2023,August,Lakeshore,2902
+787,2024,April,Riverside,3825
+788,2022,May,Sunset Boulevard,8597
+789,2024,September,Greenfield,1907
+790,2024,April,Greenfield,1794
+791,2022,September,Uptown,6230
+792,2022,June,Eastside,3499
+793,2023,September,West End,8191
+794,2024,June,Riverside,6800
+795,2023,July,West End,9569
+796,2024,September,Central Park,7930
+797,2024,October,Hilltop,1592
+798,2022,February,Greenfield,9763
+799,2023,February,Central Park,4600
+800,2023,July,Eastside,1107
+801,2024,June,Downtown,5922
+802,2023,July,Greenfield,1686
+803,2022,December,Downtown,4483
+804,2022,November,Central Park,6453
+805,2022,November,Uptown,1217
+806,2022,December,Lakeshore,1478
+807,2024,May,Hilltop,2098
+808,2023,October,Downtown,6137
+809,2022,June,Lakeshore,4999
+810,2024,April,Lakeshore,3794
+811,2023,January,Uptown,9525
+812,2024,January,Hilltop,3710
+813,2024,August,Riverside,2318
+814,2023,March,Downtown,7974
+815,2022,December,West End,3824
+816,2024,July,Hilltop,7906
+817,2024,February,Uptown,2482
+818,2024,November,Hilltop,8645
+819,2022,October,Uptown,3182
+820,2022,March,Sunset Boulevard,3898
+821,2024,March,Sunset Boulevard,8725
+822,2022,January,Lakeshore,3653
+823,2023,October,Riverside,9815
+824,2022,January,Central Park,8070
+825,2023,May,Hilltop,8086
+826,2024,June,Eastside,6833
+827,2023,February,Uptown,9438
+828,2022,October,Uptown,8148
+829,2022,April,Eastside,8826
+830,2024,February,Sunset Boulevard,3970
+831,2024,December,Downtown,4094
+832,2022,October,Hilltop,7611
+833,2024,February,Sunset Boulevard,5698
+834,2022,June,Hilltop,1417
+835,2022,May,West End,3668
+836,2023,July,Hilltop,9498
+837,2024,January,Riverside,3071
+838,2023,May,Eastside,6961
+839,2023,July,Sunset Boulevard,7203
+840,2023,June,West End,1593
+841,2023,January,Downtown,1166
+842,2024,June,Hilltop,1233
+843,2022,September,Downtown,1968
+844,2023,October,Downtown,1950
+845,2024,September,Hilltop,8867
+846,2022,July,Downtown,1420
+847,2024,April,Greenfield,1873
+848,2024,December,Central Park,5724
+849,2024,March,Eastside,4464
+850,2023,March,Eastside,9886
+851,2024,January,Sunset Boulevard,4115
+852,2024,December,Riverside,4856
+853,2024,September,Hilltop,9825
+854,2022,October,West End,4435
+855,2022,June,Central Park,2209
+856,2022,April,Greenfield,6551
+857,2022,December,Sunset Boulevard,3290
+858,2022,March,Downtown,7751
+859,2024,December,Lakeshore,8924
+860,2022,January,Sunset Boulevard,3203
+861,2023,April,Downtown,4453
+862,2023,March,West End,9512
+863,2024,April,Greenfield,6361
+864,2022,November,Greenfield,7432
+865,2024,March,West End,8652
+866,2024,June,Hilltop,2956
+867,2023,July,Uptown,3550
+868,2024,April,Uptown,7865
+869,2022,September,Greenfield,1893
+870,2024,March,Uptown,3185
+871,2022,June,Lakeshore,4183
+872,2023,May,Sunset Boulevard,4443
+873,2022,December,Downtown,6423
+874,2024,March,Lakeshore,6212
+875,2022,September,West End,8116
+876,2023,July,Eastside,5101
+877,2022,June,Downtown,8665
+878,2024,June,Central Park,9627
+879,2022,October,Eastside,1928
+880,2022,May,West End,4823
+881,2024,July,West End,2601
+882,2023,January,Greenfield,5146
+883,2022,March,Eastside,9089
+884,2023,May,Sunset Boulevard,2537
+885,2022,July,Downtown,4977
+886,2024,December,Central Park,4519
+887,2024,April,Lakeshore,5561
+888,2022,March,Greenfield,7800
+889,2023,February,Downtown,3076
+890,2024,December,Sunset Boulevard,7919
+891,2022,October,Sunset Boulevard,5342
+892,2024,November,Greenfield,4222
+893,2024,March,Central Park,5889
+894,2024,December,Hilltop,9388
+895,2022,December,Hilltop,4761
+896,2023,November,Hilltop,5462
+897,2024,March,Sunset Boulevard,7708
+898,2023,February,Hilltop,3065
+899,2022,November,Hilltop,4569
+900,2023,July,Central Park,4726
+901,2022,January,Uptown,1844
+902,2024,April,Riverside,6103
+903,2023,August,Eastside,8896
+904,2022,September,West End,6733
+905,2023,February,Sunset Boulevard,4475
+906,2022,August,Greenfield,6893
+907,2023,July,Lakeshore,9632
+908,2023,July,Eastside,7234
+909,2022,October,Lakeshore,1167
+910,2023,January,Uptown,2640
+911,2024,December,Sunset Boulevard,8424
+912,2022,November,Hilltop,2712
+913,2022,November,Downtown,9934
+914,2022,December,Central Park,1082
+915,2023,January,West End,8159
+916,2022,March,Uptown,9023
+917,2022,July,Sunset Boulevard,3334
+918,2023,February,Eastside,5981
+919,2022,January,Downtown,5077
+920,2022,February,Sunset Boulevard,5494
+921,2023,July,Downtown,5099
+922,2022,August,Greenfield,1988
+923,2024,June,Downtown,7842
+924,2023,September,Riverside,5870
+925,2023,July,Central Park,1145
+926,2022,April,Hilltop,8753
+927,2024,October,Downtown,4839
+928,2022,April,Sunset Boulevard,9809
+929,2022,September,Uptown,4595
+930,2022,May,Riverside,6368
+931,2024,April,Central Park,9304
+932,2024,November,Hilltop,8829
+933,2022,July,Downtown,6661
+934,2024,November,West End,1968
+935,2024,October,Sunset Boulevard,6204
+936,2024,August,Lakeshore,1224
+937,2022,September,Downtown,9710
+938,2022,February,Eastside,3987
+939,2023,December,Sunset Boulevard,5685
+940,2022,August,West End,3433
+941,2024,January,Central Park,7318
+942,2024,January,Riverside,4415
+943,2024,May,Eastside,8301
+944,2024,May,Eastside,1992
+945,2022,November,Uptown,2906
+946,2024,November,Uptown,5415
+947,2022,September,Sunset Boulevard,6398
+948,2023,June,Lakeshore,4763
+949,2022,July,Sunset Boulevard,7450
+950,2023,December,Eastside,4003
+951,2024,October,Uptown,8564
+952,2022,August,Greenfield,5846
+953,2024,November,Central Park,6620
+954,2023,July,Lakeshore,2531
+955,2022,November,Lakeshore,1269
+956,2024,September,Lakeshore,1776
+957,2022,September,Eastside,2463
+958,2022,April,Uptown,1832
+959,2023,November,Lakeshore,6420
+960,2022,August,Lakeshore,6604
+961,2022,January,Uptown,6501
+962,2022,March,Riverside,8966
+963,2024,January,Lakeshore,9411
+964,2024,January,Uptown,3010
+965,2022,September,West End,1380
+966,2023,January,Uptown,6037
+967,2024,March,Eastside,4510
+968,2024,May,Hilltop,6862
+969,2023,June,Riverside,9783
+970,2024,December,Lakeshore,9609
+971,2023,April,Sunset Boulevard,7819
+972,2024,November,Lakeshore,2865
+973,2024,July,Central Park,3651
+974,2024,November,Sunset Boulevard,3655
+975,2024,November,Uptown,1782
+976,2024,November,West End,1867
+977,2022,January,Central Park,4081
+978,2023,September,Lakeshore,3646
+979,2022,October,Riverside,5151
+980,2022,January,Downtown,1436
+981,2022,January,Lakeshore,7073
+982,2024,December,Sunset Boulevard,2699
+983,2024,December,West End,4379
+984,2024,November,West End,7217
+985,2024,January,Central Park,2194
+986,2023,February,Downtown,2456
+987,2024,August,Hilltop,9115
+988,2023,February,Uptown,1177
+989,2022,July,Riverside,8474
+990,2024,December,Uptown,9350
+991,2022,April,Eastside,5999
+992,2022,August,Greenfield,8840
+993,2024,December,West End,2301
+994,2024,October,Riverside,5728
+995,2023,March,Riverside,9257
+996,2024,July,Uptown,2665
+997,2023,June,Eastside,7445
+998,2024,April,Hilltop,2823
+999,2023,June,Hilltop,4814
+1000,2022,November,Riverside,1977
