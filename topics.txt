@@ -1,0 +1,58 @@
+https://github.com/vinodh1988/python-data-analytics
+
+
+scalar - int,float, string and book
+collection - list, tuple , set and dictionary
+
+
+data
+    numerical
+					descrete
+                    continous
+
+    categorical
+					nominal
+                    ordinal
+
+
+hands on
+
+ set
+ list
+ tuple
+ dictionary
+
+  if
+  elif
+  while 
+  for
+  break
+  range
+
+  operators
+
+relational >=,<=,==,!=,>,<
+logical  and or not
+in operator
+
+-----------------------------------------------------------------------
+
+load json files into python
+load csv files into python
+load web data into xls and further converting into a format you want
+
+installed pandas
+
+dataframes from csv
+
+extract columns from data frames
+
+how to group data in data frames
+
+how to plot using matplotlib
+
+
+-------------------------------------------------------------------
+
+
+pip install pandas
